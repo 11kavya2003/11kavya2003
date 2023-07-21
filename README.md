@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @11kavya2003
 - 👀 I’m interested in sql 
 - 🌱 I’m currently learning c and java
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 U can reach me on the site @kaviyakarikalan1112@gmail.com
 
 <!---
 11kavya2003/11kavya2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
